@@ -4,7 +4,7 @@ Back in 1993 I released my first computer program. It was a data visualization t
 
 ![DEO animated GIF](deo1.gif)
 
-Herewith I release this software under the GNU GPL version 3. Unfortunately I don't have the source code anymore, but I'm still looking for it and/or trying to disassemble it. Back then I used the assembler Devpac 3 to write DeO. In the unlikely case that you are interested in the source code, I recommend you to disassemble the program. If you succeed, I would be happy to get the recovered source code and add it to this repository. 
+Herewith I release this software under the GNU GPL version 3. Unfortunately I am still looking for the source code. Back then I used the assembler Devpac 3 to write DeO. In the unlikely case that you are interested in the source code, I encourage you to disassemble the program. If you succeed, I would be happy to get the recovered source code and add it to this repository. 
 
 I developed this program as project work in astronomy in High School (German: Gymnasium). Back then I found a 3D to 2D algorithm in a hacker magazine for fans of the C64 and reimplemented it in m68k assembler for my Amiga computer.
 
