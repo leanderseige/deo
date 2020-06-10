@@ -12,7 +12,7 @@ At the time of publication in 1993, I was not aware that "Deo" was the word for 
 
 ## Known Issues
 
-Displaying images: to display images, DeO uses the **display** command, which was included in AmigaOS 2.x and only works if DeO was started from the shell. 
+Displaying images: to display images, DeO uses the **display** command, which was included in AmigaOS 2.x. It only works if DeO was started from the shell. 
 
 ## Additional data
 Eulennebel.iff (Public Domain, source: https://commons.wikimedia.org/wiki/File:M97-stargazer-obs.jpg)
