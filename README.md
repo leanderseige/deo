@@ -10,5 +10,9 @@ I developed this program as project work in astronomy in High School (German: Gy
 
 At the time of publication in 1993, I was not aware that "Deo" was the word for God in the Latin language. However, considering the fact that the program places the viewer outside the extragalactic space, one could suspect an allusion here. However, it is a completely unintentional coincidence.
 
+## Known Issues
+
+Displaying images: to display images, DeO uses the **display** command, which was included in AmigaOS 2.x and only works if DeO was started from the shell. 
+
 ## Additional data
 Eulennebel.iff (Public Domain, source: https://commons.wikimedia.org/wiki/File:M97-stargazer-obs.jpg)
