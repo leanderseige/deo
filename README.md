@@ -1,6 +1,6 @@
 # DeO
 
-Back in 1993 I released my first computer program. It was a **d**ata visualization tool for **e**xtragalactic **o**bjects. I wrote it in Assembler on my Commodore Amiga 2000. It was included on the freeware disk series TIME DISK 182.
+In 1993 I published my first computer program. It was a **d**ata visualization tool for **e**xtragalactic **o**bjects. I wrote it in Assembler on my Commodore Amiga 2000. It was included on the freeware floppy disk series TIME DISK 182.
 
 ![DEO animated GIF](deo1.gif)
 
